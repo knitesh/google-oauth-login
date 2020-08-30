@@ -118,7 +118,7 @@ app.get('/', (req, res) => {
   if (_user) {
     res.send(JSON.stringify(_user))
   } else {
-    res.send('Login with Twitter/ Google')
+    res.send('Login with Google')
   }
 })
 
