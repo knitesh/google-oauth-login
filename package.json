@@ -1,5 +1,5 @@
 {
-  "name": "google-login",
+  "name": "google-oauth-login",
   "version": "1.0.0",
   "description": "Google oAuth flow to retrieve access &amp; refresh token",
   "main": "./src/index.js",
