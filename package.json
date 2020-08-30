@@ -1,0 +1,36 @@
+{
+  "name": "google-login",
+  "version": "1.0.0",
+  "description": "Google oAuth flow to retrieve access &amp; refresh token",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "form-data": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knitesh/google-login.git"
+  },
+  "keywords": [
+    "google",
+    "auth",
+    "oauth",
+    "google oAuth",
+    "login",
+    "google login",
+    "login with google",
+    "google connect",
+    "connect google",
+    "api",
+    "google api"
+  ],
+  "author": "Kumar Nitesh <contactknitesh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/knitesh/google-login/issues"
+  },
+  "homepage": "https://github.com/knitesh/google-login#readme"
+}
